@@ -1,0 +1,26 @@
+{
+    "clienttoken": "MTM1Nzc3NDExNDk5OTUwNTEwNg.Gqm49n.psoLPwsgdH1kSyo2R-Y_oBjzmVKfWoKOUOqDQE",
+    "Note_Token:": "Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
+    "clientname": "Fraunix V1",
+    "clientid": "1357774114999505106",
+    "TestingServerID": "1357045095299420190",
+    "clientavatar": "https://media.discordapp.net/attachments/1357045095299420193/1358373538603466884/standard_35.gif?ex=67f39b70&is=67f249f0&hm=a852b1d09af458c54a0ca177760a1e6e29ca752192df8fc00f0e76d1d7ccf3d9&=&width=240&height=240",
+    "prefix": "f!",
+    "developerID": [
+        "1102269585249546260","826042184561721355"
+    ],
+    "mongooseConnectionString": "mongodb+srv://CodeXpvt:GodCodeX@codexpvt.izfnc7r.mongodb.net/?retryWrites=true&w=majority&appName=CodeXpvt",
+    "colorthemecode": "#8b0000",
+    "randomMessages_Cooldown": [
+        "Wait Dont Spam...",
+        "Spaming Isn't Cool....",
+        "Never Gonna Let You Down",
+        "Hold ur horses....",
+        "Are you whore"
+    ],
+    "NOTE:": "IF YOU DONT PUT STUFF HERE IT WILL THROW ERRS",
+    "topgg": "https://top.gg/bot/1357045095299420190",
+    "embedFooter": "Made with ❤️",
+    "embedAuthor": "Your Bot Name",
+    "embedColor": "#8b0000"
+}
